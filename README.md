@@ -8,3 +8,7 @@ Power Bi
 
 
 Python File
+
+![image](https://github.com/user-attachments/assets/c370b87d-037a-4dba-b3f2-eb36b897f39e)
+
+![image](https://github.com/user-attachments/assets/b2880f6d-9562-46d4-8327-b348edb1aa90)
